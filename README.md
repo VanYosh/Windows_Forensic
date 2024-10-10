@@ -1,4 +1,4 @@
-# Windows_Forensic
+# Windows_Forensic_Report
 
 #This report was made as part of investigation task that I performed in my uni.
 
